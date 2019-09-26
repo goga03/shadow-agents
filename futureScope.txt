@@ -1,0 +1,3 @@
+##Future Scope
+
+1.Cloud based solution which will geotag data will be encrypted and to decrypt it user's permission will be needed.
